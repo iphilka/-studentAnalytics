@@ -1,0 +1,1372 @@
+{
+  "courses": [
+    {
+      "course-name": "layout-designer-basics",
+      "course-title": "Основы современной верстки",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Введение в HTML"
+        },
+        {
+          "lesson-name": "Блочная модель"
+        },
+        {
+          "lesson-name": "Семантический HTML"
+        },
+        {
+          "lesson-name": "Базовая структура HTML документа"
+        },
+        {
+          "lesson-name": "Основы CSS"
+        },
+        {
+          "lesson-name": "Каскадность в CSS"
+        },
+        {
+          "lesson-name": "Chrome DevTools"
+        },
+        {
+          "lesson-name": "Редакторы кода"
+        },
+        {
+          "lesson-name": "Emmet"
+        },
+        {
+          "lesson-name": "Публикация в интернете"
+        },
+        {
+          "lesson-name": "Графические редакторы"
+        }
+      ]
+    },
+    {
+      "course-name": "css-content",
+      "course-title": "Основы верстки контента",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Блочная модель и CSS"
+        },
+        {
+          "lesson-name": "Стили текста"
+        },
+        {
+          "lesson-name": "Шрифты и работа с ними"
+        },
+        {
+          "lesson-name": "Списки"
+        },
+        {
+          "lesson-name": "Колонки"
+        },
+        {
+          "lesson-name": "Единицы измерения"
+        },
+        {
+          "lesson-name": "Медиаэлементы"
+        },
+        {
+          "lesson-name": "Таблицы"
+        },
+        {
+          "lesson-name": "Формы"
+        },
+        {
+          "lesson-name": "Селекторы"
+        },
+        {
+          "lesson-name": "Псевдоклассы"
+        },
+        {
+          "lesson-name": "Псевдоэлементы"
+        },
+        {
+          "lesson-name": "Переполнение"
+        },
+        {
+          "lesson-name": "CSS Variables"
+        },
+        {
+          "lesson-name": "Фон"
+        },
+        {
+          "lesson-name": "Градиенты"
+        }
+      ]
+    },
+    {
+      "course-name": "css-positioning",
+      "course-title": "CSS: Позиционирование элементов",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Поток документа"
+        },
+        {
+          "lesson-name": "Относительное позиционирование"
+        },
+        {
+          "lesson-name": "Абсолютное позиционирование"
+        },
+        {
+          "lesson-name": "Относительное и абсолютное позиционирование\n"
+        },
+        {
+          "lesson-name": "Фиксированное позиционирование"
+        },
+        {
+          "lesson-name": "Плавающие элементы"
+        },
+        {
+          "lesson-name": "Наложение элементов"
+        }
+      ]
+    },
+    {
+      "course-name": "css-flex",
+      "course-title": "CSS: Основы Flex",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Что такое Flex?"
+        },
+        {
+          "lesson-name": "Флекс-контейнер"
+        },
+        {
+          "lesson-name": "Перенос элементов в контейнере"
+        },
+        {
+          "lesson-name": "Выравнивание элементов по главной оси"
+        },
+        {
+          "lesson-name": "Выравнивание элементов по перпендикулярной оси"
+        },
+        {
+          "lesson-name": "Свойства Flex-элементов. Гибкость. Flex-grow"
+        },
+        {
+          "lesson-name": "Свойства Flex-элементов. Гибкость"
+        },
+        {
+          "lesson-name": "Свойства Flex-элементов. Расположение"
+        }
+      ]
+    },
+    {
+      "course-name": "js-basics",
+      "course-title": "Основы JavaScript",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Hello, World!"
+        },
+        {
+          "lesson-name": "Инструкции"
+        },
+        {
+          "lesson-name": "Арифметические операции"
+        },
+        {
+          "lesson-name": "Ошибки оформления (синтаксиса и линтера)"
+        },
+        {
+          "lesson-name": "Строки"
+        },
+        {
+          "lesson-name": "Переменные"
+        },
+        {
+          "lesson-name": "Выражения в определениях"
+        },
+        {
+          "lesson-name": "Именование"
+        },
+        {
+          "lesson-name": "Интерполяция"
+        },
+        {
+          "lesson-name": "Извлечение символов из строки"
+        },
+        {
+          "lesson-name": "Типы данных"
+        },
+        {
+          "lesson-name": "Неизменяемость и примитивные типы"
+        },
+        {
+          "lesson-name": "Функции и их вызов"
+        },
+        {
+          "lesson-name": "Сигнатура функции"
+        },
+        {
+          "lesson-name": "Вызов функции — выражение"
+        },
+        {
+          "lesson-name": "Функции с переменным числом параметров"
+        },
+        {
+          "lesson-name": "Детерминированность"
+        },
+        {
+          "lesson-name": "Стандартная библиотека"
+        },
+        {
+          "lesson-name": "Свойства и методы"
+        },
+        {
+          "lesson-name": "Цепочка вызовов"
+        },
+        {
+          "lesson-name": "Определение функций"
+        },
+        {
+          "lesson-name": "Возврат значений"
+        },
+        {
+          "lesson-name": "Параметры функций"
+        },
+        {
+          "lesson-name": "Необязательные параметры функций"
+        },
+        {
+          "lesson-name": "Упрощенный синтаксис функций"
+        },
+        {
+          "lesson-name": "Логика"
+        },
+        {
+          "lesson-name": "Логические операторы"
+        },
+        {
+          "lesson-name": "Результат логических операций"
+        },
+        {
+          "lesson-name": "Условные конструкции"
+        },
+        {
+          "lesson-name": "Тернарный оператор"
+        },
+        {
+          "lesson-name": "Конструкция Switch"
+        },
+        {
+          "lesson-name": "Цикл while"
+        },
+        {
+          "lesson-name": "Агрегация данных"
+        },
+        {
+          "lesson-name": "Обход строк в цикле"
+        },
+        {
+          "lesson-name": "Условия внутри тела цикла"
+        },
+        {
+          "lesson-name": "Инкремент и декремент"
+        },
+        {
+          "lesson-name": "Цикл for"
+        },
+        {
+          "lesson-name": "Модули"
+        }
+      ]
+    },
+    {
+      "course-name": "employment",
+      "course-title": "Трудоустройство",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Планирование карьеры в IT"
+        },
+        {
+          "lesson-name": "Как правильно составить резюме"
+        },
+        {
+          "lesson-name": "Как написать эффективное сопроводительное письмо"
+        },
+        {
+          "lesson-name": "Поиск работы в IT"
+        },
+        {
+          "lesson-name": "Подготовка к интервью"
+        },
+        {
+          "lesson-name": "Борьба со стрессом"
+        },
+        {
+          "lesson-name": "Интервью"
+        },
+        {
+          "lesson-name": "Работа с отказами"
+        },
+        {
+          "lesson-name": "Вхождение в рабочий процесс"
+        },
+        {
+          "lesson-name": "Развитие soft skills"
+        },
+        {
+          "lesson-name": "Нетворкинг"
+        },
+        {
+          "lesson-name": "Профиль LinkedIn как инструмент поиска работы"
+        },
+        {
+          "lesson-name": "Заключение"
+        }
+      ]
+    },
+    {
+      "course-name": "js-arrays",
+      "course-title": "JS: Массивы",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "Синтаксис"
+        },
+        {
+          "lesson-name": "Модификация"
+        },
+        {
+          "lesson-name": "Проверка существования значения"
+        },
+        {
+          "lesson-name": "Цикл for"
+        },
+        {
+          "lesson-name": "Ссылки"
+        },
+        {
+          "lesson-name": "Агрегация"
+        },
+        {
+          "lesson-name": "Цикл for...of"
+        },
+        {
+          "lesson-name": "Удаление элементов массива"
+        },
+        {
+          "lesson-name": "Управляющие инструкции"
+        },
+        {
+          "lesson-name": "Вложенные массивы"
+        },
+        {
+          "lesson-name": "Генерация строки в цикле"
+        },
+        {
+          "lesson-name": "Обработка строк через преобразование в массив"
+        },
+        {
+          "lesson-name": "Вложенные циклы"
+        },
+        {
+          "lesson-name": "Теория Множеств"
+        },
+        {
+          "lesson-name": "Сортировка массивов"
+        },
+        {
+          "lesson-name": "Стек"
+        },
+        {
+          "lesson-name": "Big O"
+        },
+        {
+          "lesson-name": "Деструктуризация"
+        },
+        {
+          "lesson-name": "Rest и деструктуризация"
+        },
+        {
+          "lesson-name": "Spread и создание новых массивов"
+        },
+        {
+          "lesson-name": "Массивы в памяти компьютера"
+        }
+      ]
+    },
+    {
+      "course-name": "cli-basics",
+      "course-title": "Основы командной строки",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Операционные системы"
+        },
+        {
+          "lesson-name": "Командная строка"
+        },
+        {
+          "lesson-name": "Навигация"
+        },
+        {
+          "lesson-name": "Интерфейс командной строки"
+        },
+        {
+          "lesson-name": "Файловая структура"
+        },
+        {
+          "lesson-name": "Чтение файлов"
+        },
+        {
+          "lesson-name": "Grep"
+        },
+        {
+          "lesson-name": "Редактирование файлов"
+        },
+        {
+          "lesson-name": "Потоки"
+        },
+        {
+          "lesson-name": "Пайплайн (Конвейер)"
+        },
+        {
+          "lesson-name": "Манипулирование файловой структурой"
+        },
+        {
+          "lesson-name": "Переменные окружения"
+        },
+        {
+          "lesson-name": "История"
+        },
+        {
+          "lesson-name": "Пользователи и группы"
+        },
+        {
+          "lesson-name": "Sudo"
+        },
+        {
+          "lesson-name": "Права доступа"
+        },
+        {
+          "lesson-name": "Пакетный менеджер"
+        },
+        {
+          "lesson-name": "Выполнение программ"
+        }
+      ]
+    },
+    {
+      "course-name": "intro_to_git",
+      "course-title": "Введение в Git",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Рабочий процесс"
+        },
+        {
+          "lesson-name": "Интеграция с GitHub"
+        },
+        {
+          "lesson-name": "Рабочая директория (Working Directory)"
+        },
+        {
+          "lesson-name": "Анализ сделанных изменений"
+        },
+        {
+          "lesson-name": "Анализ истории изменений (коммитов)"
+        },
+        {
+          "lesson-name": "Отмена изменений в рабочей директории"
+        },
+        {
+          "lesson-name": "Отмена коммитов"
+        },
+        {
+          "lesson-name": "Изменение последнего коммита"
+        },
+        {
+          "lesson-name": "Индекс"
+        },
+        {
+          "lesson-name": "Перемещение по истории"
+        },
+        {
+          "lesson-name": "Понимание Git"
+        },
+        {
+          "lesson-name": "Игнорирование файлов (Gitignore)"
+        },
+        {
+          "lesson-name": "Stash"
+        },
+        {
+          "lesson-name": "Открытые проекты (Open Source)"
+        }
+      ]
+    },
+    {
+      "course-name": "js-setup-environment",
+      "course-title": "JS: Настройка окружения",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Что такое JS?"
+        },
+        {
+          "lesson-name": "Установка JavaScript"
+        },
+        {
+          "lesson-name": "NPM"
+        },
+        {
+          "lesson-name": "Зависимости"
+        },
+        {
+          "lesson-name": "Зависимости для разработки"
+        },
+        {
+          "lesson-name": "Глобальная установка пакетов"
+        },
+        {
+          "lesson-name": "NPX"
+        },
+        {
+          "lesson-name": "Линтинг"
+        }
+      ]
+    },
+    {
+      "course-name": "js-objects",
+      "course-title": "JS: Объекты",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "Синтаксис"
+        },
+        {
+          "lesson-name": "Модификация"
+        },
+        {
+          "lesson-name": "Ссылки"
+        },
+        {
+          "lesson-name": "Объекты в действии"
+        },
+        {
+          "lesson-name": "Проверка существования свойства"
+        },
+        {
+          "lesson-name": "Обход свойств объекта"
+        },
+        {
+          "lesson-name": "Вложенные объекты"
+        },
+        {
+          "lesson-name": "Слияние"
+        },
+        {
+          "lesson-name": "Клонирование (копирование)"
+        },
+        {
+          "lesson-name": "spread и создание новых объектов"
+        },
+        {
+          "lesson-name": "Деструктуризация"
+        },
+        {
+          "lesson-name": "Хеш-таблицы"
+        }
+      ]
+    },
+    {
+      "course-name": "js-functions",
+      "course-title": "JS: Функции",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "Чистые функции"
+        },
+        {
+          "lesson-name": "Разделение команд и запросов"
+        },
+        {
+          "lesson-name": "Оператор Rest (упаковка аргументов)"
+        },
+        {
+          "lesson-name": "Оператор Spread (распаковка аргументов)"
+        },
+        {
+          "lesson-name": "Деструктуризация параметров"
+        },
+        {
+          "lesson-name": "Объекты первого класса"
+        },
+        {
+          "lesson-name": "Функции высшего порядка"
+        },
+        {
+          "lesson-name": "Отображение (map)"
+        },
+        {
+          "lesson-name": "Фильтрация (filter)"
+        },
+        {
+          "lesson-name": "Агрегация (reduce)"
+        },
+        {
+          "lesson-name": "Сигналы"
+        },
+        {
+          "lesson-name": "Рекурсия"
+        },
+        {
+          "lesson-name": "Итеративный процесс"
+        },
+        {
+          "lesson-name": "Абстракция с помощью функций"
+        }
+      ]
+    },
+    {
+      "course-name": "js-testing",
+      "course-title": "JS: Автоматическое тестирование",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Зачем и как писать тесты?"
+        },
+        {
+          "lesson-name": "Утверждения (Asserts)"
+        },
+        {
+          "lesson-name": "power-assert"
+        },
+        {
+          "lesson-name": "Jest"
+        },
+        {
+          "lesson-name": "Матчеры (Expectations)"
+        },
+        {
+          "lesson-name": "Модульные тесты"
+        },
+        {
+          "lesson-name": "Подготовка данных"
+        },
+        {
+          "lesson-name": "Плохие и хорошие практики тестирования"
+        },
+        {
+          "lesson-name": "Покрытие кода тестами (Code Coverage)"
+        },
+        {
+          "lesson-name": "Разработка через тестирование (TDD)"
+        },
+        {
+          "lesson-name": "Непрерывная интеграция (CI)"
+        }
+      ]
+    },
+    {
+      "course-name": "js-data-abstraction",
+      "course-title": "JS: Абстракция с помощью данных",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Онтология"
+        },
+        {
+          "lesson-name": "Точки на координатной плоскости"
+        },
+        {
+          "lesson-name": "Семантика массивов"
+        },
+        {
+          "lesson-name": "Создание абстракции"
+        },
+        {
+          "lesson-name": "Интерфейсы"
+        },
+        {
+          "lesson-name": "Уровневое проектирование"
+        },
+        {
+          "lesson-name": "Инварианты"
+        }
+      ]
+    },
+    {
+      "course-name": "js-trees",
+      "course-title": "JS: Деревья",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Определения"
+        },
+        {
+          "lesson-name": "Виртуальная файловая система"
+        },
+        {
+          "lesson-name": "Манипуляции с виртуальной файловой системой"
+        },
+        {
+          "lesson-name": "Обход дерева"
+        },
+        {
+          "lesson-name": "Агрегация"
+        },
+        {
+          "lesson-name": "Агрегация 2"
+        },
+        {
+          "lesson-name": "Аккумулятор"
+        },
+        {
+          "lesson-name": "HTML-дерево"
+        }
+      ]
+    },
+    {
+      "course-name": "employment-for-developers",
+      "course-title": "Трудоустройство для разработчиков",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Оформление профиля на Github"
+        },
+        {
+          "lesson-name": "Портфолио: стажировка в Open Source проектах"
+        },
+        {
+          "lesson-name": "Подготовка к интервью"
+        },
+        {
+          "lesson-name": "Интервью"
+        },
+        {
+          "lesson-name": "Заключение"
+        }
+      ]
+    },
+    {
+      "course-name": "js-introduction-to-oop",
+      "course-title": "JS: Введение в ООП",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "Инкапсуляция"
+        },
+        {
+          "lesson-name": "Контекст (This)"
+        },
+        {
+          "lesson-name": "Связывание (bind)"
+        },
+        {
+          "lesson-name": "Особенности работы this со стрелочными функциями"
+        },
+        {
+          "lesson-name": "Конструктор"
+        },
+        {
+          "lesson-name": "Прототипы"
+        },
+        {
+          "lesson-name": "Упаковка и Распаковка (Boxing)"
+        },
+        {
+          "lesson-name": "toString()"
+        },
+        {
+          "lesson-name": "Класс"
+        },
+        {
+          "lesson-name": "Статические свойства и методы"
+        },
+        {
+          "lesson-name": "Исключения"
+        },
+        {
+          "lesson-name": "Немного про место и понимание ООП в программировании"
+        }
+      ]
+    },
+    {
+      "course-name": "js-object-oriented-design",
+      "course-title": "JS: Объектно-ориентированный дизайн",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "Шаблоны Проектирования"
+        },
+        {
+          "lesson-name": "Конфигурация"
+        },
+        {
+          "lesson-name": "Изменяемая конфигурация"
+        },
+        {
+          "lesson-name": "Объекты-Сущности, Объекты-Значения и внедренные объекты"
+        },
+        {
+          "lesson-name": "Fluent Interface"
+        },
+        {
+          "lesson-name": "Сборщики (Builders)"
+        },
+        {
+          "lesson-name": "Прокси (Proxy)"
+        },
+        {
+          "lesson-name": "Пишем код правильно"
+        }
+      ]
+    },
+    {
+      "course-name": "http_protocol",
+      "course-title": "Протокол HTTP",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "HTTP 1.0"
+        },
+        {
+          "lesson-name": "HTTP 1.1"
+        },
+        {
+          "lesson-name": "Тело HTTP-запроса"
+        },
+        {
+          "lesson-name": "Отправка форм"
+        },
+        {
+          "lesson-name": "Transfer-Encoding"
+        },
+        {
+          "lesson-name": "Передача данных query string"
+        },
+        {
+          "lesson-name": "Перенаправления"
+        },
+        {
+          "lesson-name": "Базовая аутентификация"
+        },
+        {
+          "lesson-name": "Cookies"
+        }
+      ]
+    },
+    {
+      "course-name": "js-asynchronous-programming",
+      "course-title": "JS: Асинхронное программирование",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Стек вызовов (Call Stack)"
+        },
+        {
+          "lesson-name": "Асинхронный код"
+        },
+        {
+          "lesson-name": "Возврат в асинхронном коде"
+        },
+        {
+          "lesson-name": "Упорядочивание асинхронных операций"
+        },
+        {
+          "lesson-name": "Обработка ошибок"
+        },
+        {
+          "lesson-name": "Параллельное выполнение операций"
+        },
+        {
+          "lesson-name": "Таймеры"
+        },
+        {
+          "lesson-name": "Промисы (Promise)"
+        },
+        {
+          "lesson-name": "Обработка ошибок в промисах"
+        },
+        {
+          "lesson-name": "Цепочка промисов"
+        },
+        {
+          "lesson-name": "Promise.all"
+        },
+        {
+          "lesson-name": "new Promise"
+        },
+        {
+          "lesson-name": "Async/Await"
+        },
+        {
+          "lesson-name": "HTTP-запросы"
+        }
+      ]
+    },
+    {
+      "course-name": "js-dom",
+      "course-title": "JS: DOM API",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "JavaScript в браузере"
+        },
+        {
+          "lesson-name": "Глобальный объект Window"
+        },
+        {
+          "lesson-name": "BOM объекты"
+        },
+        {
+          "lesson-name": "Что такое DOM?"
+        },
+        {
+          "lesson-name": "Навигация по DOM-дереву"
+        },
+        {
+          "lesson-name": "Декларативный поиск по DOM-дереву"
+        },
+        {
+          "lesson-name": "Консоль разработчика"
+        },
+        {
+          "lesson-name": "Манипулирование DOM-деревом"
+        },
+        {
+          "lesson-name": "Управление узлами DOM"
+        },
+        {
+          "lesson-name": "Полифиллы"
+        },
+        {
+          "lesson-name": "Введение в события"
+        },
+        {
+          "lesson-name": "События на практике"
+        },
+        {
+          "lesson-name": "Формы"
+        },
+        {
+          "lesson-name": "Перехват и всплытие"
+        },
+        {
+          "lesson-name": "События документа"
+        },
+        {
+          "lesson-name": "AJAX"
+        },
+        {
+          "lesson-name": "JQuery"
+        }
+      ]
+    },
+    {
+      "course-name": "regexp",
+      "course-title": "Регулярные выражения (Regexp)",
+      "lessons": [
+        {
+          "lesson-name": "Представление символов. Метасимвол."
+        },
+        {
+          "lesson-name": "Символьные классы"
+        },
+        {
+          "lesson-name": "Позиция внутри строки"
+        },
+        {
+          "lesson-name": "Альтернатива"
+        },
+        {
+          "lesson-name": "Квантификация"
+        },
+        {
+          "lesson-name": "Жадность"
+        },
+        {
+          "lesson-name": "Группировка. Обратная связь"
+        },
+        {
+          "lesson-name": "Модификаторы"
+        },
+        {
+          "lesson-name": "Просмотр вперед/назад"
+        },
+        {
+          "lesson-name": "Поиск по условию"
+        },
+        {
+          "lesson-name": "Флаги"
+        }
+      ]
+    },
+    {
+      "course-name": "js-frontend-architecture",
+      "course-title": "JS: Архитектура фронтенда",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Состояние приложения"
+        },
+        {
+          "lesson-name": "Комплексное состояние"
+        },
+        {
+          "lesson-name": "Отрисовка (рендеринг) состояния"
+        },
+        {
+          "lesson-name": "Состояние отображения (UI State)"
+        },
+        {
+          "lesson-name": "Процессы и автоматы, их описывающие"
+        },
+        {
+          "lesson-name": "Нормализация данных"
+        },
+        {
+          "lesson-name": "MVC"
+        },
+        {
+          "lesson-name": "Состояние форм"
+        },
+        {
+          "lesson-name": "Организация текстов интерфейса"
+        },
+        {
+          "lesson-name": "Инициализация приложения"
+        }
+      ]
+    },
+    {
+      "course-name": "js-advanced-testing",
+      "course-title": "JS: Продвинутое тестирование",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Тестирование ошибок"
+        },
+        {
+          "lesson-name": "Фикстуры"
+        },
+        {
+          "lesson-name": "Побочные эффекты"
+        },
+        {
+          "lesson-name": "Тестирование кода, взаимодействующего с файлами"
+        },
+        {
+          "lesson-name": "Инверсия зависимостей"
+        },
+        {
+          "lesson-name": "Тестирование HTTP-запросов"
+        },
+        {
+          "lesson-name": "Манкипатчинг"
+        },
+        {
+          "lesson-name": "Моки"
+        },
+        {
+          "lesson-name": "Property-based тестирование"
+        }
+      ]
+    },
+    {
+      "course-name": "js-polymorphism",
+      "course-title": "JS: Полиморфизм",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "Параметрический полиморфизм"
+        },
+        {
+          "lesson-name": "Диспетчеризация по ключу (данные)"
+        },
+        {
+          "lesson-name": "Диспетчеризация по ключу (функции)"
+        },
+        {
+          "lesson-name": "Диспетчеризация по имени файла"
+        },
+        {
+          "lesson-name": "Полиморфизм (утиная типизация)"
+        },
+        {
+          "lesson-name": "Null Object Pattern"
+        },
+        {
+          "lesson-name": "Код, который убивает полиморфизм"
+        },
+        {
+          "lesson-name": "Инверсия зависимостей"
+        },
+        {
+          "lesson-name": "Стратегия (Паттерн)"
+        },
+        {
+          "lesson-name": "Фабрика (Паттерн)"
+        },
+        {
+          "lesson-name": "Шаблоны проектирования (Паттерны)"
+        },
+        {
+          "lesson-name": "Объектная композиция"
+        },
+        {
+          "lesson-name": "Паттерн Состояние (State)"
+        }
+      ]
+    },
+    {
+      "course-name": "js-classes",
+      "course-title": "JS: Погружаясь в классы",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "Наследование"
+        },
+        {
+          "lesson-name": "Позднее связывание"
+        },
+        {
+          "lesson-name": "Шаблонный метод"
+        },
+        {
+          "lesson-name": "Переопределение методов"
+        },
+        {
+          "lesson-name": "Принцип подстановки Лисков"
+        },
+        {
+          "lesson-name": "Исключения"
+        },
+        {
+          "lesson-name": "Композиция вместо наследования"
+        }
+      ]
+    },
+    {
+      "course-name": "js-react",
+      "course-title": "JS: React",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Компоненты"
+        },
+        {
+          "lesson-name": "JSX"
+        },
+        {
+          "lesson-name": "Props"
+        },
+        {
+          "lesson-name": "Работа с коллекциями"
+        },
+        {
+          "lesson-name": "Различия jsx и html"
+        },
+        {
+          "lesson-name": "Обработка имён классов"
+        },
+        {
+          "lesson-name": "Children"
+        },
+        {
+          "lesson-name": "Состояние"
+        },
+        {
+          "lesson-name": "События"
+        },
+        {
+          "lesson-name": "Автоматное программирование"
+        },
+        {
+          "lesson-name": "Формы"
+        },
+        {
+          "lesson-name": "Неизменяемость"
+        },
+        {
+          "lesson-name": "Вложенные компоненты"
+        },
+        {
+          "lesson-name": "Функциональные компоненты"
+        },
+        {
+          "lesson-name": "Контекст (Context API)"
+        },
+        {
+          "lesson-name": "Virtual Dom"
+        },
+        {
+          "lesson-name": "Тестирование"
+        },
+        {
+          "lesson-name": "Асинхронная обработка"
+        },
+        {
+          "lesson-name": "Жизненный цикл компонента"
+        },
+        {
+          "lesson-name": "Производительность"
+        },
+        {
+          "lesson-name": "Refs"
+        },
+        {
+          "lesson-name": "Заключение"
+        }
+      ]
+    },
+    {
+      "course-name": "js-react-hooks",
+      "course-title": "JS: React Hooks",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Хук useState"
+        },
+        {
+          "lesson-name": "Хук useEffect"
+        },
+        {
+          "lesson-name": "Хук useContext"
+        },
+        {
+          "lesson-name": "Хук useRef"
+        }
+      ]
+    },
+    {
+      "course-name": "js-redux",
+      "course-title": "JS: Redux (React)",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Redux"
+        },
+        {
+          "lesson-name": "Редьюсеры"
+        },
+        {
+          "lesson-name": "Мидлвары"
+        }
+      ]
+    },
+    {
+      "course-name": "js-redux-toolkit",
+      "course-title": "React: Redux Toolkit",
+      "lessons": [
+        {
+          "lesson-name": "Введение"
+        },
+        {
+          "lesson-name": "Подключение Redux Toolkit к React"
+        },
+        {
+          "lesson-name": "Подробнее о работе слайсов"
+        },
+        {
+          "lesson-name": "Нормализация данных в Redux"
+        },
+        {
+          "lesson-name": "Entity Adapter"
+        },
+        {
+          "lesson-name": "Дополнительные редьюсеры (Extra Reducers)"
+        },
+        {
+          "lesson-name": "Асинхронные запросы (Thunk)"
+        }
+      ]
+    },
+    {
+      "course-name": "http-api",
+      "course-title": "HTTP API",
+      "lessons": [
+        {
+          "lesson-name": "О курсе"
+        },
+        {
+          "lesson-name": "Для чего используется HTTP API"
+        },
+        {
+          "lesson-name": "HTTP-запросы в браузере"
+        },
+        {
+          "lesson-name": "Пример HTTP API"
+        },
+        {
+          "lesson-name": "CRUD"
+        },
+        {
+          "lesson-name": "Curl"
+        },
+        {
+          "lesson-name": "Postman"
+        },
+        {
+          "lesson-name": "Виды API"
+        },
+        {
+          "lesson-name": "OpenAPI"
+        }
+      ]
+    }
+  ]
+}
